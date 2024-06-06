@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1717589539 source:c:\users\asd11\desktop\計算機程式設計\oop\期末\overloading\main.cpp
+	<iostream>
+	"PhoneNumber.h"
+	<sstream>
+	"Array.h"
+
+1717588009 c:\users\asd11\desktop\計算機程式設計\oop\期末\overloading\phonenumber.h
+	<iostream>
+	<string>
+
+1717588349 source:c:\users\asd11\desktop\計算機程式設計\oop\期末\overloading\phonenumber.cpp
+	<iomanip>
+	"PhoneNumber.h"
+
+1717589887 c:\users\asd11\desktop\計算機程式設計\oop\期末\overloading\array.h
+	<iostream>
+
+1717589887 source:c:\users\asd11\desktop\計算機程式設計\oop\期末\overloading\array.cpp
+	<iostream>
+	"Array.h"
+

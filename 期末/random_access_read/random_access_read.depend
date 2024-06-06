@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1717208186 source:c:\users\asd11\desktop\計算機程式設計\oop\期末\file_access\clientdata.cpp
+	<string>
+	"ClientData.h"
+
+1717207903 c:\users\asd11\desktop\計算機程式設計\oop\期末\file_access\clientdata.h
+	<string>
+
+1717210823 source:c:\users\asd11\desktop\計算機程式設計\oop\期末\random_access_read\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"../file_access/ClientData.h"
+
